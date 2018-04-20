@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s5.jpg</filename>
+	<path>C:\cactuz\train\s5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>780</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pachypodium saundersii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>58</ymin>
+			<xmax>492</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

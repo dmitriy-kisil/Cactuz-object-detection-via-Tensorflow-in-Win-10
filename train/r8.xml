@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>r8.jpg</filename>
+	<path>C:\cactuz\train\r8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pachypodium rosulatum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>23</ymin>
+			<xmax>425</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>m9.jpg</filename>
+	<path>C:\cactuz\train\m9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>616</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pachypodium meridionale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>301</ymin>
+			<xmax>435</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+</annotation>
