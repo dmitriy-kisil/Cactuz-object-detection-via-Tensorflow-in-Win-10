@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>r4.jpg</filename>
+	<path>C:\cactuz\test\r4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pachypodium rosulatum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>403</ymin>
+			<xmax>285</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pachypodium rosulatum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>123</ymin>
+			<xmax>469</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>
