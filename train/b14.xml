@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>b14.jpg</filename>
+	<path>C:\cactuz\train\b14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>428</width>
+		<height>345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pachypodium brevicaule</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>42</ymin>
+			<xmax>330</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
