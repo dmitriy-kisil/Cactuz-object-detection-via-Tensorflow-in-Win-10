@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>l10.jpg</filename>
+	<path>C:\cactuz\train\l10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>771</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pachypodium lamerei Drake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>86</ymin>
+			<xmax>616</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>
